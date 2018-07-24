@@ -70,13 +70,13 @@ section h3.section-subheading {
 }
 
 .btn-primary {
-  background-color: #fed136;
-  border-color: #fed136;
+  background-color: #4c4cbd;
+  border-color: #4c4cbd;
 }
 
 .btn-primary:active, .btn-primary:focus, .btn-primary:hover {
-  background-color: #fec810 !important;
-  border-color: #fec810 !important;
+  background-color: #0000ff !important;
+  border-color: #0000ff !important;
   color: white;
 }
 
@@ -172,7 +172,7 @@ img::-moz-selection {
 header.masthead {
   text-align: center;
   color: white;
-  background-image: url("../img/bg1.jpeg");
+  background-image: url("../img/melhora-o-sangue.jpg");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
@@ -184,7 +184,7 @@ header.masthead {
 
 header.masthead .intro-text {
   padding-top: 150px;
-  padding-bottom: 100px;
+  padding-bottom: 35px;
 }
 
 header.masthead .intro-text .intro-lead-in {
@@ -204,10 +204,6 @@ header.masthead .intro-text .intro-heading {
 }
 
 @media (min-width: 768px) {
-  header.masthead .intro-text {
-    padding-top: 300px;
-    padding-bottom: 200px;
-  }
   header.masthead .intro-text .intro-lead-in {
     font-size: 40px;
     font-style: italic;
